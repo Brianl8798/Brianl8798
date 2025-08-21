@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Python</b>
-
+- <b>Cybersecurity</b>
+  - [Azure VM Attack Simulation & SOC Alert Tuning](https://github.com/Brianl8798/Azure-VM-Attack-Simulation-SOC-Alert-Tuning)
+- <b>Cloud Computing</b>
+  - [SOC Level 1 Incident Response Simulation](https://github.com/Brianl8798/SOC-Level-1-Incident-Response-Simulation)
+- <b>Networking</b>
+  - [Networking Simulation Lab](https://github.com/Brianl8798/Networking-Simulation-Lab)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianLam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
