@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
   - [SOC Level 1 Incident Response Simulation](https://github.com/Brianl8798/SOC-Level-1-Incident-Response-Simulation)
