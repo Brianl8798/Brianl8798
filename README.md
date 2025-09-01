@@ -12,7 +12,6 @@
   - [Networking Simulation Lab](https://github.com/Brianl8798/Networking-Simulation-Lab)
 - <b>IT Fundamentals & Hardware</b>
   - [Digital Forensics Data Theft Investigation](https://github.com/Brianl8798/Digital-Forensics-Data-Theft-Investigation/blob/main/README.md)
-  - 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianLam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
