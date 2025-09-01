@@ -11,7 +11,7 @@
 - <b>Networking</b>
   - [Networking Simulation Lab](https://github.com/Brianl8798/Networking-Simulation-Lab)
 - <b>IT Fundamentals & Hardware</b>
-  -
+  - [Custom Workstation Engineering & Optimization](https://github.com/Brianl8798/Custom-Workstation-Engineering-Optimization)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianLam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
