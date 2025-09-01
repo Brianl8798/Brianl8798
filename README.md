@@ -6,12 +6,12 @@
   - [SOC Level 1 Incident Response Simulation](https://github.com/Brianl8798/SOC-Level-1-Incident-Response-Simulation)
   - [Analysis of a Multi-Stage Phishing Data Exfiltration](https://github.com/Brianl8798/Analysis-of-a-Multi-Stage-Phishing-Data-Exfiltration)
   - [Digital-Forensics-Data-Theft-Investigation](https://github.com/Brianl8798/Digital-Forensics-Data-Theft-Investigation)
-  - [Digital Forensics Data Theft Investigation](https://github.com/Brianl8798/Digital-Forensics-Data-Theft-Investigation/blob/main/README.md)
 - <b>Cloud Computing</b>
   - [Azure VM Attack Simulation & SOC Alert Tuning](https://github.com/Brianl8798/Azure-VM-Attack-Simulation-SOC-Alert-Tuning)
 - <b>Networking</b>
   - [Networking Simulation Lab](https://github.com/Brianl8798/Networking-Simulation-Lab)
 - <b>IT Fundamentals & Hardware</b>
+  -
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianLam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
