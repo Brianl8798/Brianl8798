@@ -5,7 +5,7 @@
 - <b>Cybersecurity</b>
   - [SOC Level 1 Incident Response Simulation](https://github.com/Brianl8798/SOC-Level-1-Incident-Response-Simulation)
   - [Analysis of a Multi-Stage Phishing Data Exfiltration](https://github.com/Brianl8798/Analysis-of-a-Multi-Stage-Phishing-Data-Exfiltration)
-  - [Digital-Forensics-Data-Theft-Investigation](https://github.com/Brianl8798/Digital-Forensics-Data-Theft-Investigation)
+  - [Digital Forensics Data Theft Investigation](https://github.com/Brianl8798/Digital-Forensics-Data-Theft-Investigation)
 - <b>Cloud Computing</b>
   - [Azure VM Attack Simulation & SOC Alert Tuning](https://github.com/Brianl8798/Azure-VM-Attack-Simulation-SOC-Alert-Tuning)
 - <b>Networking</b>
