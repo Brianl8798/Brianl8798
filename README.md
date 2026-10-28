@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Scripting & Automation</b>
+  - [One-Click Diagnostic Report (PowerShell)](https://github.com/Brianl8798/Invoke-DiagnosticReport-One-Click-Help-Desk-Triage)
 - <b>Cybersecurity</b>
   - [SOC Level 1 Incident Response Simulation](https://github.com/Brianl8798/SOC-Level-1-Incident-Response-Simulation)
   - [Analysis of a Multi-Stage Phishing Data Exfiltration](https://github.com/Brianl8798/Analysis-of-a-Multi-Stage-Phishing-Data-Exfiltration)
